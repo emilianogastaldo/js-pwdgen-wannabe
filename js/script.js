@@ -17,4 +17,8 @@ console.log('cognome: ', surName);
 const favoriteColor = prompt('Inserisci il suo colore preferito');
 console.log('colore: ', favoriteColor);
 
+// Dichiaro la variabile per password e la creo
+const superSecurePassword = firstName + surName + favoriteColor + '23';
+console.log('password: ', superSecurePassword);
+
 
