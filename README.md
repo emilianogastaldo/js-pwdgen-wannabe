@@ -28,6 +28,7 @@ Buon lavoro e buon weekend!
 
 SCALETTA:
 
+- Richiamo l'elemento dall'html che voglio modificare
 - Dichiaro una variabile per il nome
 - Dichiaro una variabile per il cognome
 - Dichiaro una variabile per il colore
@@ -35,4 +36,5 @@ SCALETTA:
 - Raccolgo i dati dall'utente
 - Salvo i rispettivi dati dell'utente
 - Genero la password
+- Modifico l'elemento dell'html
 - Stampo la password
