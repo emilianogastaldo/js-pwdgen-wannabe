@@ -24,3 +24,15 @@ Consigli
 - Commentate ogni micro step e subito dopo verificate col (console.log())
 - Disattivate Live Server finchè lavoriamo coi prompt o gli alert perchè potrebbe dar luogo a comportamenti strani
 Buon lavoro e buon weekend!
+
+
+SCALETTA:
+
+- Dichiaro una variabile per il nome
+- Dichiaro una variabile per il cognome
+- Dichiaro una variabile per il colore
+- Dichiaro una variabile per la password
+- Raccolgo i dati dall'utente
+- Salvo i rispettivi dati dell'utente
+- Genero la password
+- Stampo la password
