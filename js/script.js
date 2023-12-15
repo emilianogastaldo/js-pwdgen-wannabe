@@ -17,11 +17,4 @@ console.log('cognome: ', surName);
 const favoriteColor = prompt('Inserisci il suo colore preferito');
 console.log('colore: ', favoriteColor);
 
-// Dichiaro la variabile per password e la creo
-const superSecurePassword = firstName + surName + favoriteColor + '23';
-console.log('password: ', superSecurePassword);
 
-// Modifico l'elemento html così da stamparlo
-pw.innerHTML = `La tua password è: <strong>${superSecurePassword}</strong>`;
-console.log('codice html:', pw.innerHTML);
-console.log('testo pw:', pw.innerText);
