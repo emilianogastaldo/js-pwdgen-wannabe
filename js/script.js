@@ -10,15 +10,15 @@ const firstName = prompt('Inserisci il tuo nome');
 console.log('nome: ', firstName);
 
 // Dichiaro la variabile per il cognome e ne salvo il valore
-const surName = prompt('Inserisci il tuo cognome');
-console.log('cognome: ', surName);
+const lastName = prompt('Inserisci il tuo cognome');
+console.log('cognome: ', lastName);
 
 // Dichiaro la variabile per il colore e ne salvo il valore
 const favoriteColor = prompt('Inserisci il suo colore preferito');
 console.log('colore: ', favoriteColor);
 
 // Dichiaro la variabile per password e la creo
-const superSecurePassword = firstName + surName + favoriteColor + '23';
+const superSecurePassword = firstName + lastName + favoriteColor + '23';
 console.log('password: ', superSecurePassword);
 
 // Modifico l'elemento html così da stamparlo
